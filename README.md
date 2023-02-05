@@ -9,7 +9,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerem01121&show_icons=true&locale=en&layout=compact" alt="kerem01121" /></p>
 <br>
 
-h [iphone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
+-My Project [iphone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
 <br>
 
 <h3 align="left">Connect with me:</h3>
