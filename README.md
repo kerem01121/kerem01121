@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [iphone 14 interface](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
+-  My Project [iphone 14 interface](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
 
-- 📄 Know about my experiences [kerem01121.me](kerem01121.me)
+- My Website [kerem01121.me](kerem01121.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
