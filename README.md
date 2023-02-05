@@ -9,8 +9,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerem01121&show_icons=true&locale=en&layout=compact" alt="kerem01121" /></p>
 <br>
 
--my project [kerem01121.me](kerem01121.me)
--my project [kerem01121.me](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
+-My Website [kerem01121.me](kerem01121.me)
+-My Project [iPhone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
