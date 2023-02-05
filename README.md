@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kerem01121&label=Profile%20views&color=0e75b6&style=flat" alt="kerem01121" /> </p>
 <p>&nbsp;<img align="center" style="margin-top:300px;display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=kerem01121&show_icons=true&locale=en" alt="kerem01121" /></p>
-<img src="https://prnt.sc/RFYkkK5C7_Fg" alt="alt text" width="320" height="180">
+<img src="[https://prnt.sc/RFYkkK5C7_Fg](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-/blob/main/iphone/img/CeA3PzvI2oIAQhAAAIlCfwfuPNM4lMkP.png)" alt="alt text" width="320" height="180">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
