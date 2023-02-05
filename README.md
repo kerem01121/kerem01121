@@ -1,14 +1,14 @@
 <h1 align="center">WELCOME!!</h1>
 <h3 align="center"> developer from Turkey</h3>
-- hk [my website](kerem01121.me)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kerem01121&label=Profile%20views&color=0e75b6&style=flat" alt="kerem01121" /> </p>
-hg [iphone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerem01121&show_icons=true&locale=en&layout=compact" alt="kerem01121" /></p>
 <br>
-
+- hk [my website](kerem01121.me)
 
 <br>
 
