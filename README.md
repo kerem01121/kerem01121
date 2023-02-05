@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm kerem</h1>
+<h1 align="center">WELCOME!</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerem01121&label=Profile%20views&color=0e75b6&style=flat" alt="kerem01121" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kerem01121&label=Profile%20views&color=0e75b6&style=flat" alt="kerem01121" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerem01121" alt="kerem01121" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--  My projects [iphone 14 interface](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
+-  My projects [iPhone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
 
 - My website [kerem01121.me](kerem01121.me)
 
