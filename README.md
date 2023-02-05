@@ -9,9 +9,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerem01121&show_icons=true&locale=en&layout=compact" alt="kerem01121" /></p>
 <br>
 <p align="right" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kerem01121&show_icons=true&locale=en" alt="kerem01121" /></p>
--  My Project [iphone 14 interface](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
+-  My Project [iphone 14 interface] (https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
 
-- My Website [kerem01121.me](kerem01121.me)
+- My Website [kerem01121.me] (kerem01121.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
