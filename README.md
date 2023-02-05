@@ -16,7 +16,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 -  My projects [iPhone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
 
