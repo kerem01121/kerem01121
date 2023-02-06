@@ -48,7 +48,7 @@ If you want, you can go to [my site](https://kerem01121.me) from this link and t
     <summary img align="left"> ⚡languages I use</summary>
     <p img align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerem01121&show_icons=true&locale=en&layout=compact" alt="kerem01121" /></p>
   </details>
-  <img src="https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-/blob/main/iphone/img/CeA3PzvI2oIAQhAAAIlCfwfuPNM4lMkP.png"</img>
+  <img align="left" src="https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-/blob/main/iphone/img/CeA3PzvI2oIAQhAAAIlCfwfuPNM4lMkP.png"</img>
 
 
 
