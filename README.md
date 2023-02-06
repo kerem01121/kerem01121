@@ -24,5 +24,6 @@
 <img align="left" src="https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-/blob/main/iphone/img/CeA3PzvI2oIAQhAAAIlCfwfuPNM4lMkP.png" alt="alt text" width="439" height="585">
 
 <details>
+  <summary> My Stats</summary>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kerem01121&" alt="kerem01121" /></p>
   </details>
