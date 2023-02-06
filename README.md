@@ -52,6 +52,9 @@ If you want, you can go to [my site](https://kerem01121.me) from this link and t
   <br>
   <br>
   <br>
+  <br>
+  <br>
+  <br>
   <img align="left" src="https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-/blob/main/iphone/img/CeA3PzvI2oIAQhAAAIlCfwfuPNM4lMkP.png"</img>
 
 
