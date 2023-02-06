@@ -23,11 +23,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About my Project
 
-[MY WEBSİTE](https://kerem01121.me)
+
 
 my project consists of modeling an iphone 14 pro model using html javascript and css.
 It is a project I prepared to show what you can achieve with javascript, html and css.
-If you want, you can go to [my site](https://kerem01121.me) from this link and try it or download it from my github profile.
+If you want, you can go to [my site](https://kerem01121.me) from this link and try it or [download](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-) it from my github profile.
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
