@@ -46,7 +46,7 @@ If you want, you can go to [my site](https://kerem01121.me) from this link and t
   
   <details>
     <summary>languages I use</summary>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerem01121&show_icons=true&locale=en&layout=compact" alt="kerem01121" /></p>
+    <p img align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerem01121&show_icons=true&locale=en&layout=compact" alt="kerem01121" /></p>
   </details>
 
 
