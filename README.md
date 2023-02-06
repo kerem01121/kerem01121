@@ -38,55 +38,12 @@ If you want, you can go to [my site](https://kerem01121.me) from this link and t
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-- [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [iPhone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [@Keremeeyilmazz](https://twitter.com/your_username) - kerem@kerem01121.me
 
 
 
 
-
-
-
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
 
