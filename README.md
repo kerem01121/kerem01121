@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kerem01121">
-    <img src="https://github.com/account" alt="Logo" width="80" height="80">
+    <img src="" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
