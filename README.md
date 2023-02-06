@@ -34,31 +34,6 @@ If you want, you can go to [my site](https://kerem01121.me) from this link and t
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -70,25 +45,28 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+
+
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+- [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [iPhone 14 INTERFACE](https://github.com/kerem01121/HTML-iPhone-14-Dynamic-Island-and-Interface-)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
