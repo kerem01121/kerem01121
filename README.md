@@ -7,7 +7,7 @@
     <img src="https://avatars.githubusercontent.com/u/117937811?v=4" alt="Logo" width="100" height="100" style="border-radius: 50%;">
   </a>
 
-  <h2 align="center">Hey there 👋 I'm Faruk</h2>
+  <h2 align="center">Hey there 👋 I'm kerem</h2>
   <p align="center">
     A creative developer exploring the intersection of <strong>AI</strong>, <strong>music</strong> and <strong>interactive design</strong>.
     <br />
@@ -22,9 +22,7 @@
     ✉️ Contact me
   </a>
   ·
-  <a href="https://twitter.com/Keremeeyilmazz">
-    🐦 Twitter
-  </a>
+ 
 </div>
 
 ---
